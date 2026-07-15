@@ -2,7 +2,7 @@
 
 Founder of **Liftency**, a web design agency focused on building modern websites that help businesses grow.
 
-## 🚀 About Me
+## ℹ️ About Me
 
 - 🚀 Founder at Liftency
 - 🌐 Building modern, responsive websites
