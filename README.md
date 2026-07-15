@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Roopesh 👋
 
-<!--
-**liftency/liftency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Liftency**, a web design agency focused on building modern websites that help businesses grow.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Founder at Liftency
+- 🌐 Building modern, responsive websites
+- 💻 Front-End Developer
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- GSAP
+- JavaScript
+- TypeScript
+- React
+- Git
+- GitHub
+
+## 🌐 Connect
+
+- Website: https://liftency.com/
+- LinkedIn: http://www.linkedin.com/in/itsroopeshrs
+- X: https://x.com/liftency
