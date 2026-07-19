@@ -22,5 +22,5 @@ Founder of **Liftency**, a web design agency focused on building modern websites
 ## 🌐 Connect
 
 - Website: https://liftency.com/
-- LinkedIn: http://www.linkedin.com/in/itsroopeshrs
+- LinkedIn: https://www.linkedin.com/company/liftency/
 - X: https://x.com/liftency
